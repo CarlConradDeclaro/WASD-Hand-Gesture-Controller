@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ## 🚀 Running the Project
 Make sure your webcam is connected, then run:
 ```sh
-python hand_gesture.py
+python handgesture.py
 ```
 Press **c'** to exit.
 
