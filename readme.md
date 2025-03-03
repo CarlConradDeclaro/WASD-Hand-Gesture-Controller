@@ -6,8 +6,8 @@ A very simple python project that detects hand gestures using OpenCV and MediaPi
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+https://github.com/CarlConradDeclaro/WASD-Hand-Gesture-Controller
+cd WASD-Hand-Gesture-Controller
 ```
 
 ### 2️⃣ Create & Activate Virtual Environment
