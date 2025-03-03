@@ -63,8 +63,7 @@ pip install opencv-python mediapipe numpy keyboard
 
 ## Demo
 
-https://github.com/user-attachments/assets/678e8ba6-8242-41df-a6f8-639466490a88
-
+https://github.com/user-attachments/assets/1337d4fa-e7d4-48c5-a306-44abea639161
 
 
 
